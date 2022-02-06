@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/discover/c-pages/album/index.js"],"names":["memo"],"mappings":"sGAAA,yBAEeA,0BAAK,WAClB,OACE,8BACE","file":"static/js/5.db76d3eb.chunk.js","sourcesContent":["import React, { memo } from 'react'\n\nexport default memo(function WEAlbum() {\n  return (\n    <div>\n      <h2>WEAlbum</h2>\n    </div>\n  )\n})\n"],"sourceRoot":""}

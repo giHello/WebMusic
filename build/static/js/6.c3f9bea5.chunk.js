@@ -1,0 +1,2 @@
+(this.webpackJsonpwebmusic=this.webpackJsonpwebmusic||[]).push([[6],{287:function(e,t,c){"use strict";c.r(t);var s=c(0),i=c(1);t.default=Object(s.memo)((function(){return Object(i.jsx)("div",{children:Object(i.jsx)("h2",{children:"WErtist"})})}))}}]);
+//# sourceMappingURL=6.c3f9bea5.chunk.js.map

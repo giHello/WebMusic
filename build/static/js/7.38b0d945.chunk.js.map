@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/discover/c-pages/djradio/index.js"],"names":["memo"],"mappings":"sGAAA,yBAEeA,0BAAK,WAClB,OACE,8BACE","file":"static/js/7.38b0d945.chunk.js","sourcesContent":["import React, { memo } from 'react'\n\nexport default memo(function WEDjradio() {\n  return (\n    <div>\n      <h2>WEDjradio</h2>\n    </div>\n  )\n})\n"],"sourceRoot":""}

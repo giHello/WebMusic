@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/discover/c-pages/songs/index.js"],"names":["memo"],"mappings":"uGAAA,yBAEeA,0BAAK,WAClB,OACE,8BACE","file":"static/js/10.f31c8dbb.chunk.js","sourcesContent":["import React, { memo } from 'react'\n\nexport default memo(function WESongs() {\n  return (\n    <div>\n      <h2>WESongs</h2>\n    </div>\n  )\n})\n"],"sourceRoot":""}
